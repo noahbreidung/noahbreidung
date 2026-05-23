@@ -1,5 +1,7 @@
 # Noah Breidung
 
+GitHub: [@noahbreidung](https://github.com/noahbreidung)
+
 Mathematics and scientific computing student projects, mostly around numerical methods, stochastic processes and computational finance.
 
 ## Focus
