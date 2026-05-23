@@ -1,16 +1,21 @@
-## Hi there 👋
+# Noah Breidung
 
-<!--
-**noahbreidung/noahbreidung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use this profile mainly for university and self-study projects in mathematics, numerical methods and scientific computing.
 
-Here are some ideas to get you started:
+Currently I am working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- stochastic processes and stochastic differential equations
+- numerical simulation and Monte Carlo methods
+- computational finance, especially stochastic volatility models
+- LaTeX, Python, NumPy/SciPy and Matplotlib
+
+## Selected project
+
+[The Heston Model](https://github.com/noahbreidung/heston-model-paper)  
+A seminar paper project on the Heston stochastic volatility model, including theory, numerical simulation, Monte Carlo pricing and calibration to SPY implied-volatility data.
+
+Project page: https://noahbreidung.github.io/heston-model-paper/
+
+## Notes
+
+Most repositories here are small study projects or seminar-related experiments. I keep the public ones focused on code, figures and written work that may be useful later.
