@@ -21,7 +21,7 @@ implied-volatility data.
 Readable version:  
 https://noahbreidung.github.io/heston-model-paper/
 
-### [Numerical Approximation of a Stochastic Heat Equation](https://noahbreidung.github.io/heston-model-paper/spde-numerics-seminar/)
+### [Numerical Approximation of a Stochastic Heat Equation](https://github.com/noahbreidung/spde-numerics-seminar)
 
 Seminar notes on the one-dimensional stochastic heat equation with additive
 space-time white noise. The project covers the Hilbert-space formulation,
@@ -29,7 +29,7 @@ cylindrical Wiener noise, mild solutions, spectral Galerkin approximation, and
 exact Ornstein-Uhlenbeck mode simulation.
 
 Readable version:  
-https://noahbreidung.github.io/heston-model-paper/spde-numerics-seminar/
+https://noahbreidung.github.io/spde-numerics-seminar/
 
 ## Notes
 
